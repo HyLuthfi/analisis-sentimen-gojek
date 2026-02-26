@@ -1,0 +1,26 @@
+{
+  "akurasi": 0.8524173027989822,
+  "jumlah_data": 1964,
+  "jumlah_latih": 1571,
+  "jumlah_uji": 393,
+  "jumlah_fitur": 1701,
+  "kelas": [
+    "Negatif",
+    "Netral",
+    "Positif"
+  ],
+  "distribusi": {
+    "Positif": 1147,
+    "Negatif": 742,
+    "Netral": 75
+  },
+  "presisi_positif": 0.9107142857142857,
+  "recall_positif": 0.8869565217391304,
+  "f1_positif": 0.8986784140969163,
+  "presisi_negatif": 0.7751479289940828,
+  "recall_negatif": 0.8851351351351351,
+  "f1_negatif": 0.8264984227129337,
+  "presisi_netral": 0.0,
+  "recall_netral": 0.0,
+  "f1_netral": 0.0
+}
